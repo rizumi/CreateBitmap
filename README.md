@@ -6,6 +6,6 @@ Output "test.bmp"
 
 ## Usage
 ```
-make
-./CreateBitmap
+$ make
+$ ./CreateBitmap
 ```
